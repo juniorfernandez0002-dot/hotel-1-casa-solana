@@ -1,0 +1,8 @@
+# Robots.txt for CASA SOLANA Hoteles & Spa Perú
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemaps
+Sitemap: https://casasolana.pe/sitemap.xml

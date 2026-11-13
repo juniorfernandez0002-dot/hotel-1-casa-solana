@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- 1. Home / Inicio -->
+  <url>
+    <loc>https://casasolana.pe/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casasolana.pe/#/" />
+  </url>
+
+  <!-- 2. Habitaciones & Suites -->
+  <url>
+    <loc>https://casasolana.pe/#/habitaciones</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/habitaciones" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/habitaciones?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/habitaciones?lang=zh" />
+  </url>
+
+  <!-- 3. Destinos (Miraflores, Valle Sagrado, Paracas) -->
+  <url>
+    <loc>https://casasolana.pe/#/destinos</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/destinos" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/destinos?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/destinos?lang=zh" />
+  </url>
+
+  <!-- 4. Ofertas, Cyber Solana & Promociones Bancarias -->
+  <url>
+    <loc>https://casasolana.pe/#/ofertas</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/ofertas" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/ofertas?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/ofertas?lang=zh" />
+  </url>
+
+  <!-- 5. Restaurantes & Gastronomía (Q'iswar, Killa Brasas, Brisa Marina) -->
+  <url>
+    <loc>https://casasolana.pe/#/restaurantes</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/restaurantes" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/restaurantes?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/restaurantes?lang=zh" />
+  </url>
+
+  <!-- 6. Experiencias, Spa & Bienestar -->
+  <url>
+    <loc>https://casasolana.pe/#/servicios</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/servicios" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/servicios?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/servicios?lang=zh" />
+  </url>
+
+  <!-- 7. Club Solana (Fidelización & -12% Exclusivo) -->
+  <url>
+    <loc>https://casasolana.pe/#/club</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/club" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/club?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/club?lang=zh" />
+  </url>
+
+  <!-- 8. Corporativo B2B & Agencias -->
+  <url>
+    <loc>https://casasolana.pe/#/corporativo</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/corporativo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/corporativo?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/corporativo?lang=zh" />
+  </url>
+
+  <!-- 9. Eventos, Convenciones & Bodas de Destino -->
+  <url>
+    <loc>https://casasolana.pe/#/eventos</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/eventos" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/eventos?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/eventos?lang=zh" />
+  </url>
+
+  <!-- 10. Motor de Reservas Directas -->
+  <url>
+    <loc>https://casasolana.pe/#/reservar</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://casasolana.pe/#/reservar" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casasolana.pe/#/reservar?lang=en" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://casasolana.pe/#/reservar?lang=zh" />
+  </url>
+</urlset>

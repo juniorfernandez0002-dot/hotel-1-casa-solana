@@ -1,0 +1,23 @@
+export const HOTEL_MEDIA = {
+  sanctuaryPool: './images/hotel/hero-sanctuary-pool.jpg',
+  suiteMaster: './images/hotel/suite-master-king.jpg',
+  suiteLinen: './images/hotel/suite-linen-sunlight.jpg',
+  villaTerrace: './images/hotel/villa-courtyard-terrace.jpg',
+  loftWood: './images/hotel/loft-wood-warm.jpg',
+  spaThermal: './images/hotel/spa-thermal-stone.jpg',
+  breakfastTable: './images/hotel/breakfast-gourmet-table.jpg',
+  lobbyLounge: './images/hotel/lobby-architectural-lounge.jpg',
+  bathMarble: './images/hotel/bath-marble-soaking.jpg',
+  bayResort: './images/hotel/bay-sunset-resort.jpg',
+  cuscoPortal: './images/hotel/cusco-plaza-sunset.jpg',
+  cuscoPlaza: './images/hotel/cusco-plaza-twilight.jpg',
+  sacredValley: './images/hotel/sacred-valley-andes.jpg',
+  paracasBay: './images/hotel/paracas-bay-clean.jpg',
+  foodFlatlay: './images/hotel/food-flatlay-gourmet.jpg',
+  foodLomoSaltado: './images/hotel/food-lomo-saltado.jpg',
+  foodCeviche: './images/hotel/food-ceviche-platter.jpg',
+  corpBuildingNight: './images/hotel/corporate-building-night.jpg',
+  corpHotelEntrance: './images/hotel/corporate-hotel-entrance.jpg',
+  corpBoardroomGlass: './images/hotel/corporate-boardroom-glass.jpg',
+  weddingCeremony: './images/hotel/wedding-ceremony-peru.jpg'
+} as const;
